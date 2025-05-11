@@ -1,6 +1,6 @@
 ## 👋 Bonjour, je suis Hiromi
 
-Actuellement en formation de développement web, je m'intéresse à la création de sites intuitifs, accessibles et centrés sur l'utilisateur.
+Actuellement en formation de développement web, j'aime créer des sites intuitifs, accessibles et centrés sur l'utilisateur.
 
 🎓 Formation actuelle : **Développeur(se) Web - Web Mobile**  
 📍 Basée en France, d'origine japonaise  
