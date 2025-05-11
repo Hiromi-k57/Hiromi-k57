@@ -4,7 +4,6 @@ Actuellement en formation de développement web, je m'intéresse à la création
 
 🎓 Formation actuelle : **Développeur(se) Web - Web Mobile**  
 📍 Basée en France, d'origine japonaise  
-💻 Je travaille quotidiennement avec **HTML**, **CSS**, **Sass** et **JavaScript**
 
 ### 🌱 Ce que je fais actuellement :
 - Projets pratiques dans le cadre de ma formation
